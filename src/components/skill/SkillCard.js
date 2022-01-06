@@ -1,5 +1,4 @@
 import React from "react";
-import { SkillsData } from "../../skills";
 import "./skillCard.css";
 
 const SkillCard = ({ skill }) => {

@@ -2,7 +2,6 @@ import { useEffect, useState } from "react";
 import PortfolioList from "../portfolioList/PortfolioList";
 import "./portfolio.scss";
 import { featuredPortfolio } from "../../data";
-import { Link } from "react-router-dom";
 
 export default function Portfolio() {
   const [selected, setSelected] = useState("featured");
