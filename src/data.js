@@ -34,11 +34,11 @@ export const featuredPortfolio = [
     link: "https://pirates-cove-pizza.herokuapp.com",
     git: "https://github.com/Harikrishna2323/Pizza-delivery-app",
   },
-  {
-    id: 6,
-    title: "Banking App",
-    img: "https://cdn.dribbble.com/users/3307260/screenshots/15468444/media/447b4501f7a145b05e11c70199a9c417.jpg?compress=1&resize=1200x900",
-    link: "",
-    git: "",
-  },
+  // {
+  //   id: 6,
+  //   title: "Banking App",
+  //   img: "https://cdn.dribbble.com/users/3307260/screenshots/15468444/media/447b4501f7a145b05e11c70199a9c417.jpg?compress=1&resize=1200x900",
+  //   link: "",
+  //   git: "",
+  // },
 ];
